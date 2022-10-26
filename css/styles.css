@@ -100,6 +100,7 @@ li {
   letter-spacing: 0em;
   text-align: left;
   margin-top: 45px;
+  margin-bottom: 10px;
 }
 
 .lista-ol {
@@ -146,6 +147,7 @@ li {
   line-height: 20px;
   letter-spacing: 0em;
   text-align: left;
+  margin: 10px 0;
 }
 
 .cargo {
@@ -182,6 +184,7 @@ li {
   letter-spacing: 0em;
   text-align: left;
   color: #fb6d3a;
+  margin-bottom: 10px;
 }
 
 #asignatura {
@@ -192,6 +195,7 @@ li {
   letter-spacing: 0em;
   text-align: left;
   color: #000000;
+  margin-bottom: 10px;
 }
 
 .educacion1 {
